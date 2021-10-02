@@ -1,6 +1,2 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keita170)](https://github.com/keita170/github-readme-stats)
-<a href="https://github.com/keita170/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=keita170&show_icons=true&theme=cobalt" />
-</a>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keita170&show_icons=true&title_color=ffffff&icon_color=FFCD58&text_color=ffffff&bg_color=DEG,ba65fd,5aa5f8,00d8ee)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keita170&show_icons=true&title_color=353535&icon_color=00d8ee&text_color=353535&bg_color=DEG,dcf8f8,b8f1f1,00d8ee)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaishiNishimura&langs_count=3&title_color=353535&icon_color=00d8ee&text_color=353535&&bg_color=DEG,dcf8f8,b8f1f1,00d8ee)]
